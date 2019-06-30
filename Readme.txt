@@ -23,3 +23,6 @@ git push origin nazwa-brancha
 
 // usuwanie brancha
 git branch -D nazwa-brancha
+
+//aktualizowanie zmian na mastera
+git pull
